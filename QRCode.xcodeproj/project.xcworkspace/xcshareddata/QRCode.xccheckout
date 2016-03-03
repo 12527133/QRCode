@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EC848D78-E425-4C76-AF76-027732D105B1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QRCode</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DE1ED0E37A46E3F088B11B1884E1D6D8D6CC78FC</key>
+		<string>https://github.com/chenxuhunoc/QRCode_CopyQQ.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QRCode.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DE1ED0E37A46E3F088B11B1884E1D6D8D6CC78FC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chenxuhunoc/QRCode_CopyQQ.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DE1ED0E37A46E3F088B11B1884E1D6D8D6CC78FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DE1ED0E37A46E3F088B11B1884E1D6D8D6CC78FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QRCode_CopyQQ</string>
+		</dict>
+	</array>
+</dict>
+</plist>
